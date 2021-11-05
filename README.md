@@ -1,4 +1,4 @@
-# studious-giggle
+# Creating Inventory for spare parts 
 Using VLOOKUP for Inventory Management
 <br>
 <br>
