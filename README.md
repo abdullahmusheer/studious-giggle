@@ -16,9 +16,11 @@ In this small project, I did the following:
  Conclusion:
  This file now helps team members in :<br>
   1.Knowing the inventory status at a current time<br>
+  <br>
   2.Subsequently ordering more filters in advance(especially with supply chain problems due to covid)<br>
+  <br>
   3.Pull out cost of filters for individual property.This helps in charging back to the individual customers.<br>
-
+<br>
 </i><br>
 The first file is the original inventory file
 the second is just the intro what you read here.
